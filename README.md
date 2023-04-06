@@ -5,3 +5,7 @@ This project followed the below steps:
 1. Extracting data from Fudgemart and Fudgeflix OLTP data sources and loading required dimensions and fact tables in Data Warehouse
 2. Fetching data from External Sources  that has useful datasets for data warehousing.
 3. Creation of a PowerBI Dashboard for getting actionable business insights using MOLAP cubes
+
+# Technologies and Concepts Used:
+Technologies: SQL, SSIS, SSAS, SSRS, Microsoft PowerBI, Microsoft SQL Server, Microsoft Excel
+Concepts: ETL, Inmom-Kimball, Star/Snowflake schema, BI reporting, SQL Query Optimization, MOLAP cubes, Dashboarding and reporting
